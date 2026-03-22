@@ -4,6 +4,8 @@
 
 ---
 
+https://github.com/user-attachments/assets/52e6cfb6-550e-4e46-9c9e-e3dffe3a9cf4
+
 ## 🎯 Project Overview
 
 EduVerify.AI is an intelligent attestation assistant that streamlines the complex process of academic document verification and attestation. Using advanced AI technology powered by Groq's LLM API and OCR capabilities, it transforms the traditionally cumbersome attestation workflow into an automated, user-friendly experience.
